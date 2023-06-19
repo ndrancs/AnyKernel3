@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Velvet Kernel by TxExcalibur
+kernel.string=Sadra Kernel for Miatoll
 do.devicecheck=1
 do.modules=0
 do.systemless=1
